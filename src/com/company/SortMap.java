@@ -1,4 +1,6 @@
-package com.company.figures;
+package com.company;
+
+import com.company.figures.Point;
 
 import java.util.Comparator;
 
